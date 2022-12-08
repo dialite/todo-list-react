@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(91, 255, 91)
+  background-color: rgb(91, 255, 91);
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .title {
@@ -41,13 +41,13 @@ ul {
 }
 
 .but-add {
-  outline:none;
+  outline: none;
   border-radius: 8px;
   margin-left: 20px;
 }
 
 button.delete-but {
-  outline:none;
+  outline: none;
   border-radius: 8px;
   width: 10px;
   margin-left: 80%;
